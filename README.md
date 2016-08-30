@@ -1,4 +1,5 @@
 # hello-world
-My first repository
-Hello Geoff
-Hello Jason
+
+My first repository on GitHub
+
+I love :coffee: :pizza:, and :dancer:.
